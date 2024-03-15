@@ -1,0 +1,18 @@
+{
+  "name": "modeplay-palindrome",
+  "version": "0.1.0",
+  "description": "\"Palindrome detector\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/ModePlay/modeplay-palindrome\""
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "Mode Play",
+  "license": "ISC"
+}
